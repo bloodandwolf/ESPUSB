@@ -9,15 +9,7 @@ Have fun!
 
 (PCB9mm is the newest)<br>
 EasyEDA project: https://easyeda.com/SinanAkkoyun/ESP8285 <br>
-Code (will soon make my own code based on that): https://github.com/cnlohr/espusb/
-
-```js
-//TODO:
-/* nitro mode (hackermode)
-Code is coming soon when I tested the PCB IRL, so stay tuned!
-  
-  BIG shoutout to CNLohr, he is the greatest hacker/reverse engineer that I know from YouTube, he hardcoded the whole USB HID stack himself, the ESP does not natively support USB protocols! */
-```
+Code (esp-idf based improvements WIP): https://github.com/cnlohr/espusb/
 
 ![render](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render2.png)
 ![render](https://github.com/SinanAkkoyun/ESPUSB/raw/master/render1.png)
